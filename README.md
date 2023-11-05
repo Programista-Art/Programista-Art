@@ -20,9 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Programista-Art "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Programista-Art &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programista-Art&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programista-Art&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
