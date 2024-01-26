@@ -1,7 +1,7 @@
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitriy
-# I'm a Delphi and C# developer
+# I'm a Delphi, C#, JAVA, Python developer
 * 🌍  I'm based in Katowice
 * 🖥️  See my portfolio at [My portfolio](http://dimitalart.pl/)
 
