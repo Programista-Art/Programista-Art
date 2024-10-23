@@ -1,13 +1,11 @@
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# I'm a Delphi developer
-* 🌍  I'm based in Katowice
+# I'm a Delphi, C#, Java, developer
+* 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [My portfolio](http://dimitalart.pl/)
 
-* 🚀  I'm currently working on [Dimart](http://github.com/Programista-Art/Dimart)
-* 🧠  I'm learning JAVA
-* ⚡  I'm an digital artist
+* 🚀  I'm currently working on [Notepad AI]([http://github.com/Programista-Art/Dimart](https://dimitalart.pl/index.php/2024/08/19/notepad-ai-zaawansowany-program-do-notatek/))
 
 ### Skills
 
